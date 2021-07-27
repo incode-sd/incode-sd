@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Sourav
+- 👀 I’m interested in Full Stack Development
+- 🌱 I’m currently learning about React
+- 💞️ I’m looking for new opportunities
